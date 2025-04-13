@@ -1,0 +1,94 @@
+{
+  "CategoryPage": {
+    "title": "제품 카탈로그"
+  },
+  "ProductsPage": {
+    "title": "제품 목록",
+    "empty_data": "상품을 찾을 수 없습니다"
+  },
+  "ProductInfo": {
+    "new": "새로운",
+    "best_seller": "베스트셀러",
+    "featured": "뛰어난",
+    "coming_soon": "곧 출시 예정",
+    "out_of_stock": "품절",
+    "sku": "제품 코드:",
+    "price": "값:",
+    "weight": "화물량:",
+    "unit": "단위:",
+    "buy_now": "지금 구매하세요",
+    "detail": "제품 세부 정보",
+    "related_products": "관련 상품"
+  },
+  "ExplorePage": {
+    "title": "찾다",
+    "search_description": "검색하고자 하는 상품명과 관련된 키워드를 입력하세요",
+    "search_result_description": "결과\"{search}\"",
+    "search_placeholder": "무엇을 찾고 계신가요?....",
+    "search_not_found": "상품을 찾을 수 없습니다"
+  },
+  "Common": {
+    "next": "다음",
+    "prev": "돌아와요",
+    "close": "닫다",
+    "view_result": "결과 보기",
+    "view_all": "모두 보기"
+  },
+  "HomeLayout": {
+    "BottomBar": {
+      "home": "집",
+      "categories": "예배 규칙서",
+      "products": "제품",
+      "search": "찾다",
+      "settings": "환경"
+    },
+    "Header": {
+      "search": "찾다"
+    },
+    "Footer": {
+      "phone_number": "고객 서비스 센터:",
+      "email": "이메일:",
+      "address": "주소:",
+      "connect_with_us": "저희와 연결하세요"
+    }
+  },
+
+  "Breadcrumb": {
+    "home": "집",
+    "categories": "제품 카탈로그",
+    "products": "제품 목록",
+    "search": "찾다 "
+  },
+  "Sort": {
+    "sort_by": "정렬 기준",
+    "new": "새로운",
+    "featured": "뛰어난",
+    "best_seller": "베스트셀러",
+    "price_desc": "높은 가격 - 낮은 가격",
+    "price_asc": "낮은 가격 - 높은 가격",
+    "name_desc": "이름 Z-A",
+    "name_asc": "이름 A-Z"
+  },
+  "Filter": {
+    "filter_by": "기준에 따라 선택",
+    "filtering_by": "필터링 기준",
+    "remove_all": "모두 선택 해제",
+    "price": "값",
+    "tags": "상표",
+    "categories": "제품 카탈로그",
+    "filter_price_result": "{from}부터 {to}까지 가격",
+    "filter_categories_result": "카테고리: {categories}",
+    "filter_tags_result": "태그: {tags}"
+  },
+  "LocaleSwitcher": {
+    "label": "언어 선택",
+    "locale": "{locale, select, vi {VI} en {EN} ko {KO} other {Unknown}}"
+  },
+  "ProductCard": {
+    "new": "새로운",
+    "best_seller": "베스트셀러",
+    "featured": "뛰어난",
+    "coming_soon": "곧 출시 예정",
+    "out_of_stock": "품절"
+  }
+}

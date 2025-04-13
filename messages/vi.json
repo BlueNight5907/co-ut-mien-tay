@@ -1,0 +1,94 @@
+{
+  "CategoryPage": {
+    "title": "Danh Mục Sản Phẩm"
+  },
+  "ProductsPage": {
+    "title": "Danh Sách Sản Phẩm",
+    "empty_data": "Không tìm thấy sản phẩm nào"
+  },
+  "ProductInfo": {
+    "new": "Mới",
+    "best_seller": "Bán chạy",
+    "featured": "Nổi bật",
+    "coming_soon": "Sắp về hàng",
+    "out_of_stock": "Hết hàng",
+    "sku": "Mã sản phẩm:",
+    "price": "Giá tiền:",
+    "weight": "Khối lượng:",
+    "unit": "Đơn vị:",
+    "buy_now": "Mua Ngay",
+    "detail": "Chi Tiết Sản Phẩm",
+    "related_products": "Sản Phẩm Liên Quan"
+  },
+  "ExplorePage": {
+    "title": "Tìm Kiếm",
+    "search_description": "Nhập từ khóa liên quan đến tên sản phẩm bạn muốn tìm kiếm",
+    "search_result_description": "Tất cả kết quả trả về cho từ khoá \"{search}\"",
+    "search_placeholder": "Bạn tìm gì....",
+    "search_not_found": "Không tìm thấy sản phẩm nào"
+  },
+  "Common": {
+    "next": "Kế tiếp",
+    "prev": "Quay lại",
+    "close": "Đóng",
+    "view_result": "Xem kết quả",
+    "view_all": "Xem tất cả"
+  },
+  "HomeLayout": {
+    "BottomBar": {
+      "home": "Trang Chủ",
+      "categories": "Danh Mục",
+      "products": "Sản Phẩm",
+      "search": "Tìm Kiếm",
+      "settings": "Cài Đặt"
+    },
+    "Header": {
+      "search": "Tìm Kiếm"
+    },
+    "Footer": {
+      "phone_number": "Tổng đài CSKH:",
+      "email": "Email:",
+      "address": "Địa chỉ:",
+      "connect_with_us": "Kết Nối Với Chúng Tôi"
+    }
+  },
+
+  "Breadcrumb": {
+    "home": "Trang Chủ",
+    "categories": "Danh Mục Sản Phẩm",
+    "products": "Danh Sách Sản Phẩm",
+    "search": "Tìm Kiếm"
+  },
+  "Sort": {
+    "sort_by": "Sắp xếp theo",
+    "new": "Mới",
+    "featured": "Nổi bật",
+    "best_seller": "Bán chạy",
+    "price_desc": "Giá Cao - Thấp",
+    "price_asc": "Giá Thấp - Cao",
+    "name_desc": "Tên Z-A",
+    "name_asc": "Tên A-Z"
+  },
+  "Filter": {
+    "filter_by": "Chọn theo tiêu chí",
+    "filtering_by": "Đang lọc theo",
+    "remove_all": "Bỏ chọn tất cả",
+    "price": "Giá tiền",
+    "tags": "Nhãn",
+    "categories": "Danh mục sản phẩm",
+    "filter_price_result": "Giá tiền từ {from} đến {to}",
+    "filter_categories_result": "Danh mục: {categories}",
+    "filter_tags_result": "Nhãn: {tags}"
+  },
+  "LocaleSwitcher": {
+    "label": "Chọn ngôn ngữ",
+    "locale": "{locale, select, vi {VI} en {EN} ko {KO} other {Unknown}}"
+  },
+  "ProductCard": {
+    "new": "Mới",
+    "best_seller": "Bán chạy",
+    "featured": "Nổi bật",
+    "coming_soon": "Sắp về hàng",
+    "out_of_stock": "Hết hàng"
+  }
+}

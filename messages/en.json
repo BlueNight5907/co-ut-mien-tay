@@ -1,0 +1,96 @@
+{
+  "CategoryPage": {
+    "title": "Category List"
+  },
+  "ProductsPage": {
+    "title": "Product List",
+    "empty_data": "Product not found"
+  },
+  "ProductInfo": {
+    "new": "New",
+    "best_seller": "Best seller",
+    "featured": "Featured",
+    "coming_soon": "Coming soon",
+    "out_of_stock": "Out of stock",
+    "sku": "SKU:",
+    "price": "Price:",
+    "weight": "Weight:",
+    "unit": "Unit:",
+    "buy_now": "Buy Now",
+    "detail": "Product Detail",
+    "related_products": "Related Products"
+  },
+  "ExplorePage": {
+    "title": "Search",
+    "search_description": "Enter keywords related to the product name you want to search for",
+    "search_result_description": "All results returned for keyword \"{search}\"",
+    "search_placeholder": "What are you looking for....",
+    "search_not_found": "Product not found"
+  },
+  "Common": {
+    "next": "Next",
+    "prev": "Prev",
+    "close": "Close",
+    "view_result": "View result",
+    "view_all": "View all"
+  },
+  "HomeLayout": {
+    "BottomBar": {
+      "home": "Home",
+      "categories": "Categories",
+      "products": "Products",
+      "search": "Explore",
+      "settings": "Settings"
+    },
+    "Header": {
+      "search": "Search"
+    },
+    "Footer": {
+      "phone_number": "Phone number:",
+      "email": "Email:",
+      "address": "Address:",
+      "connect_with_us": "Contact With Us"
+    }
+  },
+  "Header": {
+    "search": "Search"
+  },
+  "Breadcrumb": {
+    "home": "Home",
+    "categories": "Categories",
+    "products": "Products",
+    "search": "Search"
+  },
+  "Sort": {
+    "sort_by": "Sort by",
+    "new": "New",
+    "featured": "Featured",
+    "best_seller": "Best seller",
+    "price_desc": "Price descending",
+    "price_asc": "Price ascending",
+    "name_desc": "Name Z-A",
+    "name_asc": "Name A-Z"
+  },
+  "Filter": {
+    "filter_by": "Filter by",
+    "filtering_by": "Filtering by",
+    "remove_all": "Remove all",
+    "price": "Price",
+    "tags": "Tags",
+    "categories": "Categories",
+    "filter_price_result": "Price from {from} to {to}",
+    "filter_categories_result": "Categories: {categories}",
+    "filter_tags_result": "Tags: {tags}"
+  },
+  "LocaleSwitcher": {
+    "label": "Change Language",
+    "locale": "{locale, select, vi {VI} en {EN} ko {KO} other {Unknown}}"
+  },
+  "ProductCard": {
+    "new": "New",
+    "best_seller": "Best seller",
+    "featured": "Featured",
+    "coming_soon": "Coming soon",
+    "out_of_stock": "Out of stock"
+  }
+}
